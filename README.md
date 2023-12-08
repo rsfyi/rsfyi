@@ -1,3 +1,5 @@
+![](https://github-readme-stats.vercel.app/api?username=rsfyi&show_icons=true&count_private=true)
+
 ### Hi there 👋
 
 <!--
